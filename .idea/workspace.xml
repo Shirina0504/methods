@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7375dd81-f752-4ce5-bf40-16e8d7ee741d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/method/task_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/method/task_10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/method/task_11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/method/task_12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/method/task_13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/method/task_14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/method/task_15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/method/task_16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/method/task_17.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/method/task_18.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/method/task_19.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/method/task_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/method/task_20.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/method/task_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/method/task_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/method/task_5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/method/task_6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/method/task_7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/method/task_8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/method/task_9.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0000000000002685" />
+      <entry key="MS500" value="1.0030605358865208" />
+      <entry key="S2" value="1.2352065469163758" />
+      <entry key="S5" value="1.5617418856145542" />
+      <entry key="S10" value="1.7998375708044834" />
+      <entry key="S30" value="2.7397457944994024" />
+      <entry key="S60" value="4.2426850577457" />
+      <entry key="M2" value="7.045745428750284" />
+      <entry key="M5" value="14.20595511111268" />
+      <entry key="M10" value="23.52662024828066" />
+      <entry key="M15" value="30.10706301515445" />
+      <entry key="M30" value="41.03793576402523" />
+      <entry key="H1" value="49.70749785900809" />
+      <entry key="H2" value="55.543810818104305" />
+      <entry key="H4" value="59.02576867035565" />
+      <entry key="D1" value="62.298705962893905" />
+      <entry key="W1" value="62.89879151928237" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="1.8783273069059967E-258" />
+      <entry key="S5" value="8.119111561396342E-104" />
+      <entry key="S10" value="2.8494054750765682E-52" />
+      <entry key="S30" value="6.5803867338872325E-18" />
+      <entry key="S60" value="2.5652264488603093E-9" />
+      <entry key="M2" value="5.0648158526506436E-5" />
+      <entry key="M5" value="0.01923310700292893" />
+      <entry key="M10" value="0.14941183511517034" />
+      <entry key="M15" value="0.32777972950670603" />
+      <entry key="M30" value="0.9006696048172103" />
+      <entry key="H1" value="1.763587122920954" />
+      <entry key="H2" value="2.606778504477121" />
+      <entry key="H4" value="3.214298961546733" />
+      <entry key="D1" value="3.854421758016082" />
+      <entry key="W1" value="3.978811016560946" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="2.4310314699699775E-6" />
+      <entry key="MS500" value="0.07580001319108656" />
+      <entry key="S2" value="0.6685356559181064" />
+      <entry key="S5" value="1.2346024172989072" />
+      <entry key="S10" value="1.6051664169745985" />
+      <entry key="S30" value="2.644468320999914" />
+      <entry key="S60" value="4.17068062968213" />
+      <entry key="M2" value="6.9859239954156855" />
+      <entry key="M5" value="14.171781156684629" />
+      <entry key="M10" value="23.627763936257967" />
+      <entry key="M15" value="30.392343990894894" />
+      <entry key="M30" value="41.9085150209627" />
+      <entry key="H1" value="51.452243798503474" />
+      <entry key="H2" value="58.13978290073656" />
+      <entry key="H4" value="62.23422818156971" />
+      <entry key="D1" value="66.15208354406205" />
+      <entry key="W1" value="66.87745147152971" />
+    </decayedShown>
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.task_1.executor": "Run",
+    "git-widget-placeholder": "main",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "onboarding.tips.debug.path": "C:/Users/laptop/Documents/GitHub/methods/src/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
